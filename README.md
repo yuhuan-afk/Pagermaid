@@ -71,3 +71,4 @@ Pagermaid 是一个用在 Telegram 的实用工具。
 
 - `PagerMaid-Modify/pagermaid/modules/update.py`
 
+# Pagermaid-zhtw
